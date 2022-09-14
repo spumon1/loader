@@ -1,0 +1,13 @@
+   EXPORTS
+     MpFreeMemory
+	 MpConfigUninitialize
+	 MpConfigOpen
+	 MpConfigClose
+	 MpConfigGetValueAlloc
+	 MpHandleClose
+	 MpNotificationRegister
+	 MpConfigInitialize
+	 MpClientUtilExportFunctions
+	 MpManagerOpen
+	 MpConfigGetValue
+	 MpDelegateCopyFile
